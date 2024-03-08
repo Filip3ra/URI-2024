@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\Tomadas\bin\Debug\net8.0\Tomadas.exe
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\Tomadas\bin\Debug\net8.0\Tomadas.deps.json
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\Tomadas\bin\Debug\net8.0\Tomadas.runtimeconfig.json
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\Tomadas\bin\Debug\net8.0\Tomadas.dll
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\Tomadas\bin\Debug\net8.0\Tomadas.pdb
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\Tomadas\obj\Debug\net8.0\Tomadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\Tomadas\obj\Debug\net8.0\Tomadas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\Tomadas\obj\Debug\net8.0\Tomadas.AssemblyInfo.cs
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\Tomadas\obj\Debug\net8.0\Tomadas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\Tomadas\obj\Debug\net8.0\Tomadas.sourcelink.json
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\Tomadas\obj\Debug\net8.0\Tomadas.dll
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\Tomadas\obj\Debug\net8.0\refint\Tomadas.dll
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\Tomadas\obj\Debug\net8.0\Tomadas.pdb
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\Tomadas\obj\Debug\net8.0\Tomadas.genruntimeconfig.cache
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\Tomadas\obj\Debug\net8.0\ref\Tomadas.dll

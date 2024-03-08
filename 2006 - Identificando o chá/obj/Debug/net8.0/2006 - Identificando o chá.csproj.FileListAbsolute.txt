@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\2006 - Identificando o chá\obj\Debug\net8.0\2006 - Identificando o chá.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\2006 - Identificando o chá\obj\Debug\net8.0\2006 - Identificando o chá.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\2006 - Identificando o chá\obj\Debug\net8.0\2006 - Identificando o chá.AssemblyInfo.cs
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\2006 - Identificando o chá\obj\Debug\net8.0\2006 - Identificando o chá.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\2006 - Identificando o chá\obj\Debug\net8.0\2006 - Identificando o chá.sourcelink.json
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\2006 - Identificando o chá\bin\Debug\net8.0\2006 - Identificando o chá.exe
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\2006 - Identificando o chá\bin\Debug\net8.0\2006 - Identificando o chá.deps.json
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\2006 - Identificando o chá\bin\Debug\net8.0\2006 - Identificando o chá.runtimeconfig.json
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\2006 - Identificando o chá\bin\Debug\net8.0\2006 - Identificando o chá.dll
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\2006 - Identificando o chá\bin\Debug\net8.0\2006 - Identificando o chá.pdb
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\2006 - Identificando o chá\obj\Debug\net8.0\2006 - Identificando o chá.dll
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\2006 - Identificando o chá\obj\Debug\net8.0\refint\2006 - Identificando o chá.dll
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\2006 - Identificando o chá\obj\Debug\net8.0\2006 - Identificando o chá.pdb
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\2006 - Identificando o chá\obj\Debug\net8.0\2006 - Identificando o chá.genruntimeconfig.cache
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\2006 - Identificando o chá\obj\Debug\net8.0\ref\2006 - Identificando o chá.dll
