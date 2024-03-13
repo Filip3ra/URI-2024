@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\1924 - Vitória e a Indecisão\bin\Debug\net8.0\1924 - Vitória e a Indecisão.exe
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\1924 - Vitória e a Indecisão\bin\Debug\net8.0\1924 - Vitória e a Indecisão.deps.json
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\1924 - Vitória e a Indecisão\bin\Debug\net8.0\1924 - Vitória e a Indecisão.runtimeconfig.json
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\1924 - Vitória e a Indecisão\bin\Debug\net8.0\1924 - Vitória e a Indecisão.dll
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\1924 - Vitória e a Indecisão\bin\Debug\net8.0\1924 - Vitória e a Indecisão.pdb
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\1924 - Vitória e a Indecisão\obj\Debug\net8.0\1924 - Vitória e a Indecisão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\1924 - Vitória e a Indecisão\obj\Debug\net8.0\1924 - Vitória e a Indecisão.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\1924 - Vitória e a Indecisão\obj\Debug\net8.0\1924 - Vitória e a Indecisão.AssemblyInfo.cs
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\1924 - Vitória e a Indecisão\obj\Debug\net8.0\1924 - Vitória e a Indecisão.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\1924 - Vitória e a Indecisão\obj\Debug\net8.0\1924 - Vitória e a Indecisão.sourcelink.json
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\1924 - Vitória e a Indecisão\obj\Debug\net8.0\1924 - Vitória e a Indecisão.dll
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\1924 - Vitória e a Indecisão\obj\Debug\net8.0\refint\1924 - Vitória e a Indecisão.dll
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\1924 - Vitória e a Indecisão\obj\Debug\net8.0\1924 - Vitória e a Indecisão.pdb
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\1924 - Vitória e a Indecisão\obj\Debug\net8.0\1924 - Vitória e a Indecisão.genruntimeconfig.cache
+C:\Users\Usuario\Documents\IFNMG\2024\dotNET\URI-2024\1924 - Vitória e a Indecisão\obj\Debug\net8.0\ref\1924 - Vitória e a Indecisão.dll
